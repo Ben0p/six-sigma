@@ -2,7 +2,11 @@
 
 cpu = {
     'cpu_times': {
-
+        'user': 0.0,
+        'system': 0.0,
+        'idle': 0.0,
+        'interrupt': 0.0,
+        'dpc': 0.0,
     },
     'cpu_percent': {
         '0' : 0.0,
